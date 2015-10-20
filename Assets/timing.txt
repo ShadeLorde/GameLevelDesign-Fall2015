@@ -1,8 +1,11 @@
-base - middle (TL) 00:23:37
-base - base (TL)
+base - middle (TL) 00:23 (Walk) 00:17 (Sprint)
+base - base (TL) 01:25 (Walk) 00:36 (Sprint)
 
-base - middle (ML) 00:00:27:56 (Walk) 00:13:79 (Sprint)
-base - base (ML) 00:00:53:81 (Walk) 00:29:00 (Sprint
+base - middle (ML) 00:28 (Walk) 00:14 (Sprint)
+base - base (ML) 00:54 (Walk) 00:29 (Sprint)
 
-base - middle (BL)
-base - base (BL)
+base - middle (BL) 00:35 (Walk) 00:18 (Sprint)
+base - base (BL) 01:13 (Walk) 00:37 (Sprint)
+
+The main combat in the finished game will be between 
+the middle towers until they are destroyed
